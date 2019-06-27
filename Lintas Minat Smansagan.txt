@@ -1,7 +1,7 @@
 Sistem Pendukung Keputusan untuk penentuan mata pelajaran lintas minat
 Aktor : admin (username, password)
 Admin yang menjalankan guru BK / kurikulum
-
+ 
 Requirement :
 1. Admin dapat login ke sistem menggunakan username dan password
 2. Admin dapat mengelola data siswa (tambah, edit, hapus, detail). 
